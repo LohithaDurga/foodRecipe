@@ -3,7 +3,6 @@ import './App.css'
 import {createBrowserRouter,RouterProvider} from "react-router-dom"
 import Home from './pages/Home'
 import MainNavigation from './components/MainNavigation'
-import axios from 'axios'
 import AddFoodRecipe from './pages/AddfoodRecipe'
 import EditRecipe from './pages/EditRecipe'
 
