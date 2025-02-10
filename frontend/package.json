@@ -12,7 +12,10 @@
     "set-cookie-parser": "^2.7.1",
     "turbo-stream": "^2.4.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "vite": "^6.1.0",
+    "@vitejs/plugin-react": "^4.3.4"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
